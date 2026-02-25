@@ -41,6 +41,16 @@ Cette extension injecte automatiquement ces effets sur **tous les sites** : bout
   <img src="screenshots/youtube.png" alt="Liquid Glass sur YouTube" width="800">
 </p>
 
+### Sur Gmail
+<p align="center">
+  <img src="screenshots/gmail.png" alt="Liquid Glass sur Gmail" width="800">
+</p>
+
+### Sur Reddit
+<p align="center">
+  <img src="screenshots/reddit.png" alt="Liquid Glass sur Reddit" width="800">
+</p>
+
 ---
 
 ## 🚀 Installation dans Google Chrome
